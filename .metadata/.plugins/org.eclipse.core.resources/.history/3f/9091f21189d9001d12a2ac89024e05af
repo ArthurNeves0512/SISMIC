@@ -1,0 +1,12 @@
+
+			.text
+			.def ex2
+
+ex2:
+			mov.w	#vetor,R4
+			mov.w	@rn, R5
+
+
+
+			.data
+vetor:		.byte	0x12,0x34, 0x56, 0x78, 0x9A, 0xBC, 0xDE

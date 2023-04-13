@@ -1,0 +1,4 @@
+			.text
+			.def exercicio1
+exercicio1:
+			mov.b #0xA3, R4

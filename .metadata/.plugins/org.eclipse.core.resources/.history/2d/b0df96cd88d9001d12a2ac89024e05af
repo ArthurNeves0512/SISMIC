@@ -1,0 +1,11 @@
+
+			.text
+			.def ex2
+
+ex2:
+			mov.b	#0x60,R5
+
+
+
+			.data
+vetor:		.bytes	0x12

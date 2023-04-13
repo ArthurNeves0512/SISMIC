@@ -1,0 +1,1891 @@
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+warning #10366-D: automatic library build: using library "C:\ti\ccs1220\ccs\tools\compiler\ti-cgt-msp430_21.6.1.LTS\lib\rts430x_sc_sd_eabi.lib" for the first time, so it must be built.  This may take a few minutes.
+Creating library c:/users/arthur~1/appdata/local/temp/ti_mkl~1/rts430x_sc_sd_eabi.lib
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0002] Illegal mnemonic specified
+				jpm		$
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Testes.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0003] Register expected
+				mov		@0x002401, R8
+ 
+"../main.asm", ERROR!   at line 32: [E0003] Unexpected trailing operand(s)
+				mov		@0x002401, R8
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0003] Register expected
+				mov		@0x002401, R8
+ 
+"../main.asm", ERROR!   at line 32: [E0003] Unexpected trailing operand(s)
+				mov		@0x002401, R8
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0003] Register expected
+				mov		@(0x002400), R8
+ 
+"../main.asm", ERROR!   at line 32: [E0003] Unexpected trailing operand(s)
+				mov		@(0x002400), R8
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0003] Register expected
+				mov		@(0x2400), R8
+ 
+"../main.asm", ERROR!   at line 32: [E0003] Unexpected trailing operand(s)
+				mov		@(0x2400), R8
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", ERROR!   at line 32: [E0004] Illegal un-relocatable operand
+				mov		0x002400, R8
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Testes ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Testes" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Testes.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__CC430F5123__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"Testes.map" --heap_size=0 --stack_size=0 -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Testes_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Testes.out" "./main.obj" "../lnk_cc430f5123.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Testes.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+Finished building: "../exercicio1.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'exercicio1.obj' failed
+"../exercicio1.asm", ERROR!   at line 28: [E0004] Illegal un-relocatable operand
+				mov.b	0x1A,0(R4)
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [exercicio1.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'exercicio1.obj' failed
+"../exercicio1.asm", ERROR!   at line 28: [E0004] Illegal un-relocatable operand
+				mov.b	0x1A,(R4)
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [exercicio1.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+Finished building: "../exercicio1.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'exercicio1.obj' failed
+"../exercicio1.asm", ERROR!   at line 30: [E0004] Illegal destination operand
+				mov.w	#0xCAFE, @R4+
+ 
+"../exercicio1.asm", ERROR!   at line 31: [E0004] Illegal destination operand
+				mov.w	#0x1A70, @R4+
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [exercicio1.obj] Error 1
+Building file: "../exercicio2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio2.d_raw"  "../exercicio2.asm"
+Finished building: "../exercicio2.asm"
+ 
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+Finished building: "../exercicio1.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "./exercicio2.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "RESET" redefined: first defined in "./exercicio1.obj"; redefined in "./exercicio2.obj"
+"../lnk_msp430f5529.cmd", line 243: error #10099-D: program will not fit into available memory, or the section contains a call site that requires a trampoline that can't be generated for this section. placement with alignment fails for section ".reset" size 0x4.  Available memory ranges:
+   RESET        size: 0x2          unused: 0x2          max hole: 0x2       
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:137: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:133: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "./exercicio2.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "RESET" redefined: first defined in "./exercicio1.obj"; redefined in "./exercicio2.obj"
+"../lnk_msp430f5529.cmd", line 243: error #10099-D: program will not fit into available memory, or the section contains a call site that requires a trampoline that can't be generated for this section. placement with alignment fails for section ".reset" size 0x4.  Available memory ranges:
+   RESET        size: 0x2          unused: 0x2          max hole: 0x2       
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:137: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:133: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "./exercicio2.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "RESET" redefined: first defined in "./exercicio1.obj"; redefined in "./exercicio2.obj"
+"../lnk_msp430f5529.cmd", line 243: error #10099-D: program will not fit into available memory, or the section contains a call site that requires a trampoline that can't be generated for this section. placement with alignment fails for section ".reset" size 0x4.  Available memory ranges:
+   RESET        size: 0x2          unused: 0x2          max hole: 0x2       
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:137: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:133: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+No Assembly Errors, 1 Assembly Warning
+"../exercicio1.asm", WARNING! at line 34: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+Finished building: "../exercicio1.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./exercicio1.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e.d_raw"  "../e.asm"
+Finished building: "../e.asm"
+ 
+Building file: "../exercicio1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="exercicio1.d_raw"  "../exercicio1.asm"
+No Assembly Errors, 1 Assembly Warning
+"../exercicio1.asm", WARNING! at line 28: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+Finished building: "../exercicio1.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e.obj" "./exercicio1.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e1.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e1.d_raw"  "../e1.asm"
+No Assembly Errors, 1 Assembly Warning
+"../e1.asm", WARNING! at line 14: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+Finished building: "../e1.asm"
+ 
+Building file: "../e10.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e10.d_raw"  "../e10.asm"
+Finished building: "../e10.asm"
+ 
+Building file: "../e11.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e11.d_raw"  "../e11.asm"
+Finished building: "../e11.asm"
+ 
+Building file: "../e12.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e12.d_raw"  "../e12.asm"
+Finished building: "../e12.asm"
+ 
+Building file: "../e13.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e13.d_raw"  "../e13.asm"
+Finished building: "../e13.asm"
+ 
+Building file: "../e14.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e14.d_raw"  "../e14.asm"
+Finished building: "../e14.asm"
+ 
+Building file: "../e15.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e15.d_raw"  "../e15.asm"
+Finished building: "../e15.asm"
+ 
+Building file: "../e16.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e16.d_raw"  "../e16.asm"
+Finished building: "../e16.asm"
+ 
+Building file: "../e17.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e17.d_raw"  "../e17.asm"
+Finished building: "../e17.asm"
+ 
+Building file: "../e18.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e18.d_raw"  "../e18.asm"
+Finished building: "../e18.asm"
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e2.obj' failed
+"../e2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor		.bytes	0x12,0x34,0x56,0x78,0x9A,0xBC,0xDE
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e2.obj] Error 1
+Building file: "../e19.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e19.d_raw"  "../e19.asm"
+Finished building: "../e19.asm"
+ 
+Building file: "../e20.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e20.d_raw"  "../e20.asm"
+Finished building: "../e20.asm"
+ 
+Building file: "../e21.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e21.d_raw"  "../e21.asm"
+Finished building: "../e21.asm"
+ 
+Building file: "../e22.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e22.d_raw"  "../e22.asm"
+Finished building: "../e22.asm"
+ 
+Building file: "../e3.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e3.d_raw"  "../e3.asm"
+Finished building: "../e3.asm"
+ 
+Building file: "../e4.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e4.d_raw"  "../e4.asm"
+Finished building: "../e4.asm"
+ 
+Building file: "../e5.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e5.d_raw"  "../e5.asm"
+Finished building: "../e5.asm"
+ 
+Building file: "../e6.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e6.d_raw"  "../e6.asm"
+Finished building: "../e6.asm"
+ 
+Building file: "../e7.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e7.d_raw"  "../e7.asm"
+Finished building: "../e7.asm"
+ 
+Building file: "../e8.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e8.d_raw"  "../e8.asm"
+Finished building: "../e8.asm"
+ 
+Building file: "../e9.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e9.d_raw"  "../e9.asm"
+Finished building: "../e9.asm"
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+1 Assembly Error, 1 Assembly Warning
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'main.obj' failed
+"../main.asm", WARNING! at line 28: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+"../main.asm", ERROR!   at EOF: [E0300] The following symbols are undefined:
+  ex2
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e2.obj' failed
+"../e2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor		.bytes	0x12,0x34,0x56,0x78,0x9A,0xBC,0xDE
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e2.obj] Error 1
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+No Assembly Errors, 1 Assembly Warning
+"../main.asm", WARNING! at line 28: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+Finished building: "../main.asm"
+ 
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e2.obj' failed
+"../e2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor:		.bytes	0x12,0x34,0x56,0x78,0x9A,0xBC,0xDE
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e2.obj' failed
+"../e2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor:		.bytes:	0x12,0x34,0x56,0x78,0x9A,0xBC,0xDE
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+Finished building: "../e2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e2.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e2.d_raw"  "../e2.asm"
+Finished building: "../e2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e2.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e2.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+No Assembly Errors, 1 Assembly Warning
+"../main.asm", WARNING! at line 28: [W5369] Silicon Errata CPU40: A jump instruction at the end of a section should be followed by a NOP.
+				jmp		$
+ 
+Finished building: "../main.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e2.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e2.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e10.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e11.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e12.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e13.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e14.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e15.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e16.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e17.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e18.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e19.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e20.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e21.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e22.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e3.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e4.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e5.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e6.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e7.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e8.obj"
+error #10056: symbol "ex1" redefined: first defined in "./e1.obj"; redefined in "./e9.obj"
+error #10010: errors encountered during linking; "Modulo-1.out" not built
+ 
+>> Compilation failure
+makefile:158: recipe for target 'Modulo-1.out' failed
+gmake[1]: *** [Modulo-1.out] Error 1
+makefile:154: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e10.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e10.d_raw"  "../e10.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e10.obj' failed
+"../e10.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e10.obj] Error 1
+Building file: "../e11.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e11.d_raw"  "../e11.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e11.obj' failed
+"../e11.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e11.obj] Error 1
+Building file: "../e12.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e12.d_raw"  "../e12.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e12.obj' failed
+"../e12.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e12.obj] Error 1
+Building file: "../e13.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e13.d_raw"  "../e13.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e13.obj' failed
+"../e13.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e13.obj] Error 1
+Building file: "../e14.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e14.d_raw"  "../e14.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e14.obj' failed
+"../e14.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e14.obj] Error 1
+Building file: "../e15.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e15.d_raw"  "../e15.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e15.obj' failed
+"../e15.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e15.obj] Error 1
+Building file: "../e16.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e16.d_raw"  "../e16.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e16.obj' failed
+"../e16.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e16.obj] Error 1
+Building file: "../e17.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e17.d_raw"  "../e17.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e17.obj' failed
+"../e17.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e17.obj] Error 1
+Building file: "../e18.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e18.d_raw"  "../e18.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e18.obj' failed
+"../e18.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e18.obj] Error 1
+Building file: "../e19.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e19.d_raw"  "../e19.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e19.obj' failed
+"../e19.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e19.obj] Error 1
+Building file: "../e20.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e20.d_raw"  "../e20.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e20.obj' failed
+"../e20.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e20.obj] Error 1
+Building file: "../e21.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e21.d_raw"  "../e21.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e21.obj' failed
+"../e21.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e21.obj] Error 1
+Building file: "../e22.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e22.d_raw"  "../e22.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e22.obj' failed
+"../e22.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e22.obj] Error 1
+Building file: "../e3.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e3.d_raw"  "../e3.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e3.obj' failed
+"../e3.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e3.obj] Error 1
+Building file: "../e4.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e4.d_raw"  "../e4.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e4.obj' failed
+"../e4.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e4.obj] Error 1
+Building file: "../e5.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e5.d_raw"  "../e5.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e5.obj' failed
+"../e5.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e5.obj] Error 1
+Building file: "../e6.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e6.d_raw"  "../e6.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e6.obj' failed
+"../e6.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e6.obj] Error 1
+Building file: "../e7.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e7.d_raw"  "../e7.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e7.obj' failed
+"../e7.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e7.obj] Error 1
+Building file: "../e8.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e8.d_raw"  "../e8.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e8.obj' failed
+"../e8.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e8.obj] Error 1
+Building file: "../e9.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e9.d_raw"  "../e9.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e9.obj' failed
+"../e9.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e9.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e10.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e10.d_raw"  "../e10.asm"
+Finished building: "../e10.asm"
+ 
+Building file: "../e11.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e11.d_raw"  "../e11.asm"
+Finished building: "../e11.asm"
+ 
+Building file: "../e12.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e12.d_raw"  "../e12.asm"
+Finished building: "../e12.asm"
+ 
+Building file: "../e13.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e13.d_raw"  "../e13.asm"
+Finished building: "../e13.asm"
+ 
+Building file: "../e14.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e14.d_raw"  "../e14.asm"
+Finished building: "../e14.asm"
+ 
+Building file: "../e15.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e15.d_raw"  "../e15.asm"
+Finished building: "../e15.asm"
+ 
+Building file: "../e16.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e16.d_raw"  "../e16.asm"
+Finished building: "../e16.asm"
+ 
+Building file: "../e17.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e17.d_raw"  "../e17.asm"
+Finished building: "../e17.asm"
+ 
+Building file: "../e18.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e18.d_raw"  "../e18.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e18.obj' failed
+"../e18.asm", ERROR!   at line 3: [E0300] 'ex1' is not defined in this source file
+				.def ex1
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e18.obj] Error 1
+Building file: "../e19.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e19.d_raw"  "../e19.asm"
+Finished building: "../e19.asm"
+ 
+Building file: "../e20.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e20.d_raw"  "../e20.asm"
+Finished building: "../e20.asm"
+ 
+Building file: "../e21.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e21.d_raw"  "../e21.asm"
+Finished building: "../e21.asm"
+ 
+Building file: "../e22.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e22.d_raw"  "../e22.asm"
+Finished building: "../e22.asm"
+ 
+Building file: "../e3.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e3.d_raw"  "../e3.asm"
+Finished building: "../e3.asm"
+ 
+Building file: "../e4.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e4.d_raw"  "../e4.asm"
+Finished building: "../e4.asm"
+ 
+Building file: "../e5.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e5.d_raw"  "../e5.asm"
+Finished building: "../e5.asm"
+ 
+Building file: "../e6.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e6.d_raw"  "../e6.asm"
+Finished building: "../e6.asm"
+ 
+Building file: "../e7.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e7.d_raw"  "../e7.asm"
+Finished building: "../e7.asm"
+ 
+Building file: "../e8.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e8.d_raw"  "../e8.asm"
+Finished building: "../e8.asm"
+ 
+Building file: "../e9.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e9.d_raw"  "../e9.asm"
+Finished building: "../e9.asm"
+ 
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../e18.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e18.d_raw"  "../e18.asm"
+Finished building: "../e18.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor:		.bytes	0x12
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 11: [E0002] Illegal mnemonic specified
+	vetor:		.bytes:	0x12
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 7: [E0003] Register expected
+				mov.w	@rn, R5
+ 
+"../ex2.asm", ERROR!   at line 7: [E0003] Unexpected trailing operand(s)
+				mov.w	@rn, R5
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+8 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 7: [E0200] Binary operator can't be applied
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0200] Bad term in expression
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0001] Illegal symbol
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0003] Unexpected trailing operand(s)
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Binary operator can't be applied
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Bad term in expression
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0001] Illegal symbol
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0003] Unexpected trailing operand(s)
+				mov.b   @R4+, R6//0x34
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+Building file: "../e5.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e5.d_raw"  "../e5.asm"
+2 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'e5.obj' failed
+"../e5.asm", ERROR!   at line 9: [E0001] Undefined symbol
+				bit		BIT1
+ 
+"../e5.asm", ERROR!   at EOF: [E0300] The following symbols are undefined:
+  BIT1
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [e5.obj] Error 1
+Building file: "../e8.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e8.d_raw"  "../e8.asm"
+Finished building: "../e8.asm"
+ 
+Building file: "../main.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.asm"
+Finished building: "../main.asm"
+ 
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+8 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 7: [E0200] Binary operator can't be applied
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0200] Bad term in expression
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0001] Illegal symbol
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0003] Unexpected trailing operand(s)
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Binary operator can't be applied
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Bad term in expression
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0001] Illegal symbol
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0003] Unexpected trailing operand(s)
+				mov.b   @R4+, R6//0x34
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+Building file: "../e5.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="e5.d_raw"  "../e5.asm"
+Finished building: "../e5.asm"
+ 
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+8 Assembly Errors, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'ex2.obj' failed
+"../ex2.asm", ERROR!   at line 7: [E0200] Binary operator can't be applied
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0200] Bad term in expression
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0001] Illegal symbol
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 7: [E0003] Unexpected trailing operand(s)
+				mov.b	@R4+, R5//0x12
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Binary operator can't be applied
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0200] Bad term in expression
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0001] Illegal symbol
+				mov.b   @R4+, R6//0x34
+ 
+"../ex2.asm", ERROR!   at line 8: [E0003] Unexpected trailing operand(s)
+				mov.b   @R4+, R6//0x34
+ 
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [ex2.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../ex2.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1220/ccs/ccs_base/msp430/include" --include_path="C:/Users/Arthur Neves/workspace_v12/Modulo-1" --include_path="C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="ex2.d_raw"  "../ex2.asm"
+Finished building: "../ex2.asm"
+ 
+Building target: "Modulo-1.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Modulo-1.map" --heap_size=0 --stack_size=0 --cinit_hold_wdt=on -i"C:/ti/ccs1220/ccs/ccs_base/msp430/include" -i"C:/ti/ccs1220/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/lib" -i"C:/ti/ccs1220/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Modulo-1_linkInfo.xml" --entry_point=RESET --use_hw_mpy=F5 -o "Modulo-1.out" "./e1.obj" "./e10.obj" "./e11.obj" "./e12.obj" "./e13.obj" "./e14.obj" "./e15.obj" "./e16.obj" "./e17.obj" "./e18.obj" "./e19.obj" "./e20.obj" "./e21.obj" "./e22.obj" "./e3.obj" "./e4.obj" "./e5.obj" "./e6.obj" "./e7.obj" "./e8.obj" "./e9.obj" "./ex2.obj" "./main.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "Modulo-1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Modulo-1 ****
+
+"C:\\ti\\ccs1220\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'Modulo-1.out' is up to date.
+
+**** Build Finished ****

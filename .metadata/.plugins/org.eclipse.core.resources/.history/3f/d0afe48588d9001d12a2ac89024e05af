@@ -1,0 +1,6 @@
+
+			.text
+			.def ex1
+
+ex13:
+			mov.b #0xA3, R4

@@ -1,0 +1,6 @@
+
+			.text
+			.def ex5
+
+ex5:
+			mov.b #0xA3, R4
